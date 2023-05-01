@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: Dim21-star/argocd-course-webapp
+  repository: kampdim/argocd-course-webapp
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: 0749f902c21ddbea8352c4aa5505b19b0cd86688
